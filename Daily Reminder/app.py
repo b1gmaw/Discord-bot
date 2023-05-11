@@ -3,7 +3,7 @@ import asyncio
 import datetime
 from discord.ext import commands
 
-TOKEN = 'MTEwNTg2NDI4NTc5Nzc0ODczNg.GGts39.iE3g2MG8UMWX1mLynMS1pCH1P5CzmrAynnebTs'
+TOKEN = 'ADD YOUR BOT TOKEN HERE'
 CHANNEL_ID = 1036208865433358428
 MESSAGE = "@eddog time to play dota"
 
